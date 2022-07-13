@@ -1,0 +1,3 @@
+linux is an unix based opreting system.
+linux is an open-source operting system.
+it is like Window,mac,android,etc
